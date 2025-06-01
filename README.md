@@ -27,8 +27,7 @@ This project works locally using Ollama, reasoner model includes gemma:2b(since 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/coleam00/archon.git
-cd archon/iterations/v2-agentic-workflow
+git clone https://github.com/21amY26/daedalus.git
 ```
 
 2. Install dependencies (recommended to use a Python virtual environment):
@@ -51,7 +50,7 @@ pip install -r requirements.txt
    EMBEDDING MODEL:nomic-embed-text:v1.5
    ```
 
-## Usage
+## To use
 
 ### Database Setup
 
