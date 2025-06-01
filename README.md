@@ -114,3 +114,5 @@ CREATE TABLE site_pages (
 - `streamlit_ui.py`: Web interface with streaming support
 - `ollama_site_pages.sql`: Database setup commands
 - `requirements.txt`: Project dependencies
+
+  [MIT License](LICENSE)
